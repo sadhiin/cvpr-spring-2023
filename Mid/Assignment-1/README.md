@@ -1,4 +1,5 @@
 ## Assignmnet-1: Image Classification in Cifar-10 with k-Nearest Neighbour
+[Open in Kaggle](https://www.kaggle.com/code/alphapii/knn-cvpr)
 
 ![KNN gif](https://raw.githubusercontent.com/sadhiin/cvpr-spring-2023/main/others/images/knn.gif)
 
