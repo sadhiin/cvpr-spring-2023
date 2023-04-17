@@ -4,5 +4,6 @@
 American International University-Bangladesh
 
 # ✏️ Table of Content
-+ [Assignment-1-KNN]()
-+ [Assignment-2-Activation Functions]()
++ [Assignment-1-KNN](https://github.com/sadhiin/cvpr-spring-2023/tree/main/Mid/Assignment-1)
++ [Assignment-2-Activation Functions](https://github.com/sadhiin/cvpr-spring-2023/tree/main/Mid/Assignment-2)
++ [Class Performance-1](https://github.com/sadhiin/cvpr-spring-2023/blob/main/Final/cp1_cvpr.ipynb)
