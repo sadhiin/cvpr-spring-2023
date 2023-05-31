@@ -18,7 +18,7 @@ img_size = (100, 100)
 box_colors = {0: (0, 0, 255), 1: (0, 255, 0), 2: (0, 255, 255)}
 text_colors = {0: (0, 0, 255), 1: (0, 255, 0), 2: (30, 144, 255)}
 
-face_cascade = cv2.CascadeClassifier('haarcascade_frontalface_alt2.xml')
+face_cascade = cv2.CascadeClassifier('haarcascade_frontalface_default.xml')
 
 # video from webcam
 cap = cv2.VideoCapture(0)
